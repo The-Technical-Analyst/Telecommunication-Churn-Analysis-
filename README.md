@@ -1,0 +1,1 @@
+This project analyzes customer data to identify factors leading to customer churn and develops a predictive model to pinpoint at-risk customers. The goal is to provide actionable insights to help the company retain customers and reduce churn.
